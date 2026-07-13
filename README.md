@@ -19,43 +19,43 @@ each script categorized by their difficulty
 
 | IDX no. | Scripts                                          |
 | ------- | ------------------------------------------------ |
-| 1       | [Disppear command](l1/Disappearing%20command.md) |
-| 2       | [Silent network](l2/Silent%20Network.md)         |
-| 3       | [Ghost space](l3/ghost%20space)                  |
-| 4       | [Rouge permission](l4/rougue%20permissions)      |
-| 5       | [Systemd strike](l5/systemd%20silent%20strike)   |
-| 6       | [Immutable lockout](l6/immutable%20lockout)      |
-| 7       | [Hostile sudoers](l7/hostile%20sudoers)          |
-| 8       | [Missing drive](l8/missing%20drive.sh)           |
-| 9       | [Poisoned Kernel](l9/poisoned%20kernel)          |
-| 10      | [Corrupted LVM](l10/corrupted%20LVM)             |
+| 1       | [Disppear command](l1/Disappearing%20command.sh) |
+| 2       | [Silent network](l2/Silent%20Network.sh)         |
+| 3       | [Ghost space](l3/ghost%20space.sh)                  |
+| 4       | [Rouge permission](l4/rougue%20permissions.sh)      |
+| 5       | [Systemd strike](l5/systemd%20silent%20strike.sh)   |
+| 6       | [Immutable lockout](l6/immutable%20lockout.sh)      |
+| 7       | [Hostile sudoers](l7/hostile%20sudoers.sh)          |
+| 8       | [Missing drive](l8/missing%20drive.sh)              |
+| 9       | [Poisoned Kernel](l9/poisoned%20kernel.sh)          |
+| 10      | [Corrupted LVM](l10/corrupted%20LVM.sh)             |
                                                   
 
 #### Level 1
 
 | IDX no. | Scripts                                          |
 | ------- | ------------------------------------------------ |
-| 1       | [Disppear command](l1/Disappearing%20command.md) |
+| 1       | [Disppear command](l1/Disappearing%20command.sh) |
 
 #### Level 2
 
 | **IDX no.** | **Scripts**                              |
 | ----------- | ---------------------------------------- |
-| 1           | [Silent network](l2/Silent%20Network.md) |
+| 1           | [Silent network](l2/Silent%20Network.sh) |
 
 #### Level 3
 
 | **IDX no** | **Scripts**                     |
 | ---------- | ------------------------------- |
-| 1          | [Ghost space](l3/ghost%20space) |
+| 1          | [Ghost space](l3/ghost%20space.sh) |
 
 #### Level 4
 
 | IDX no. | Scripts                                     |
 | ------- | ------------------------------------------- |
-| 1       | [Rouge permission](l4/rougue%20permissions) |
+| 1       | [Rouge permission](l4/rougue%20permissions.sh) |
 #### Level 5
 
 | IDX no. | Scripts                                        |
 | ------- | ---------------------------------------------- |
-| 1       | [Systemd strike](l5/systemd%20silent%20strike) |
+| 1       | [Systemd strike](l5/systemd%20silent%20strike.sh) |
